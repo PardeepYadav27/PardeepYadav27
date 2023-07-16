@@ -22,8 +22,8 @@
     <li>
       <g-emoji class="g-emoji" alias="speech_balloon"
         fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> 𝙰𝚜𝚔 𝙼𝚎
-      𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://github.com/PardeepYadav27/PardeepYadav27"
-        data-hovercard-type="issue" data-hovercard-url="/PardeepYadav27/PardeepYadav27">here</a> ! 𝙸
+      𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 <a href="https://github.com/PardeepYadav27/"
+        data-hovercard-type="issue" data-hovercard-url="/PardeepYadav27/">here</a> ! 𝙸
       𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
     </li>
     <li>
