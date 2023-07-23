@@ -38,4 +38,4 @@
       <strong>Life seems to be hard, when you start earings</strong>
     </li>
   </ul>
-![counter](https://[github.com/PardeepYadav27].m.pipedream.net)
+![](https://komarev.com/ghpvc/?username=PardeepYadav27)
