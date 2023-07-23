@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7770C&width=435&lines=Hi+%2C+I'm+Pardeep+Yadav+%F0%9F%98%8A;Frontend+Developer)](https://git.io/typing-svg)
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
       href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img
         align="right" height="250" width="400" alt="GIF"
