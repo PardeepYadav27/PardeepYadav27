@@ -38,4 +38,3 @@
       <strong>Life seems to be hard, when you start earings</strong>
     </li>
   </ul>
-![](https://komarev.com/ghpvc/?username=PardeepYadav27)
